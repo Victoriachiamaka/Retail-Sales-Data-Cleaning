@@ -1,0 +1,292 @@
+Order ID,Customer Name,Gender,Category, Sales Amount ,City,Quantity,Date
+10001,John Smith, Male,Technology," $1,250.45 ",New York,2,3/14/2025
+10002,Mary Jones,Female,Furniture, $450.20 ,Los Angeles,1,6/2/2025
+10003,Alice Brown, Male,Office Supplies, $85.15 ,Chicago,5,10/15/2025
+10004,Robert Wilson,Female,Technology," $2,100.00 ",Houston,3,1/1/2026
+10005,Sarah Miller, Male,Furniture, $620.80 ,Phoenix,4,8/23/2025
+10006,Michael Davis,Female,Office Supplies, $12.40 ,Philadelphia,10,4/8/2025
+10007,James Garcia, Male,Technology, $950.00 ,San Antonio,1,11/30/2025
+10008,Linda Martinez,Female,Furniture," $1,340.50 ",San Diego,2,5/7/2025
+10009,Barbara Robinson, Male,Office Supplies, $45.99 ,Dallas,6,9/22/2025
+10010,David Clark,Female,Technology," $3,200.10 ",San Jose,1,7/17/2025
+10014,Joseph Walker,Female,Furniture, $780.25 ,Columbus,1,8/10/2025
+10015,Susan Hall, Male,Office Supplies, $23.50 ,Charlotte,12,5/22/2025
+10016,Charles Allen,Female,Technology," $1,450.00 ",San Francisco,2,11/10/2025
+10017,Jessica Young, Male,Furniture, $299.99 ,Indianapolis,5,4/30/2025
+10018,Matthew Hernandez,Female,Office Supplies, $64.20 ,Seattle,3,9/9/2025
+10019,Karen King, Male,Technology," $1,850.50 ",Denver,1,1/23/2026
+10020,Christopher Wright,Female,Furniture, $410.00 ,Washington,2,6/14/2025
+10024,Betty Green,Female,Office Supplies, $35.40 ,Detroit,6,10/19/2025
+10025,Daniel Adams, Male,Technology," $1,100.25 ",Oklahoma City,3,5/2/2025
+10026,Sandra Baker,Female,Furniture, $525.00 ,Portland,1,8/12/2025
+10027,Donald Gonzalez, Male,Office Supplies, $78.90 ,Las Vegas,4,4/17/2025
+10028,Helen Nelson,Female,Technology," $1,350.00 ",Memphis,2,11/1/2025
+10029,George Carter, Male,Furniture, $95.50 ,Louisville,1,3/3/2025
+10030,Ashley Mitchell,Female,Office Supplies, $18.25 ,Baltimore,7,6/18/2025
+10034,Robert Wilson,Female,Technology," $2,100.00 ",Houston,3,1/1/2026
+10035,Sarah Miller, Male,Furniture, $620.80 ,Phoenix,4,8/23/2025
+10036,Michael Davis,Female,Office Supplies, $12.40 ,Philadelphia,10,4/8/2025
+10037,James Garcia, Male,Technology, $950.00 ,San Antonio,1,11/30/2025
+10038,Linda Martinez,Female,Furniture," $1,340.50 ",San Diego,2,5/7/2025
+10039,Barbara Robinson, Male,Office Supplies, $45.99 ,Dallas,6,9/22/2025
+10040,David Clark,Female,Technology," $3,200.10 ",San Jose,1,7/17/2025
+10044,Joseph Walker,Female,Furniture, $780.25 ,Columbus,1,8/10/2025
+10045,Susan Hall, Male,Office Supplies, $23.50 ,Charlotte,12,5/22/2025
+10046,Charles Allen,Female,Technology," $1,450.00 ",San Francisco,2,11/10/2025
+10047,Jessica Young, Male,Furniture, $299.99 ,Indianapolis,5,4/30/2025
+10048,Matthew Hernandez,Female,Office Supplies, $64.20 ,Seattle,3,9/9/2025
+10049,Karen King, Male,Technology," $1,850.50 ",Denver,1,1/23/2026
+10050,Christopher Wright,Female,Furniture, $410.00 ,Washington,2,6/14/2025
+10054,Shirley Phillips,Female,Office Supplies, $15.99 ,Fresno,5,7/29/2025
+10055,Edward Campbell, Male,Technology," $1,600.00 ",Sacramento,1,3/6/2025
+10051,Kenneth Perez, Male,Office Supplies, $45.00 ,Milwaukee,3,5/12/2025
+10052,Amy Roberts,Female,Technology," $1,150.00 ",Albuquerque,1,9/17/2025
+10053,Steven Turner, Male,Furniture, $890.45 ,Tucson,2,11/7/2025
+10056,Brian Parker,Female,Furniture, $345.20 ,Kansas City,4,2/14/2026
+10057,Dorothy Evans, Male,Office Supplies, $88.50 ,Mesa,3,8/6/2025
+10058,Ronald Edwards,Female,Technology," $2,400.00 ",Atlanta,2,12/18/2025
+10059,Kimberly Collins, Male,Furniture, $710.00 ,Omaha,1,6/23/2025
+10060,Anthony Stewart,Female,Office Supplies, $19.95 ,Colorado Springs,6,10/28/2025
+10061,Kenneth Perez, Male,Office Supplies, $45.00 ,Milwaukee,3,5/12/2025
+10062,Amy Roberts,Female,Technology," $1,150.00 ",Albuquerque,1,9/17/2025
+10063,Steven Turner, Male,Furniture, $890.45 ,Tucson,2,11/7/2025
+10064,Shirley Phillips,Female,Office Supplies, $15.99 ,Fresno,5,7/29/2025
+10065,Edward Campbell, Male,Technology," $1,600.00 ",Sacramento,1,3/6/2025
+10066,Jerry Morris, Male,Technology," $1,320.00 ",Raleigh,2,4/4/2025
+10067,Amanda Rogers,Female,Furniture, $510.50 ,Miami,3,9/1/2025
+10068,Dennis Reed, Male,Office Supplies, $62.30 ,Long Beach,8,1/7/2026
+10069,Gloria Cook,Female,Technology," $1,980.00 ",Virginia Beach,1,5/15/2025
+10070,Peter Morgan, Male,Furniture, $430.00 ,Oakland,2,11/22/2025
+10071,Frances Bell,Female,Office Supplies, $14.50 ,Minneapolis,11,6/10/2025
+10072,Walter Murphy, Male,Technology, $875.00 ,Tulsa,1,3/2/2025
+10073,Ann Bailey,Female,Furniture," $1,250.00 ",Arlington,4,8/20/2025
+10074,Henry Opera, Male,Office Supplies, $41.25 ,New Orleans,5,12/1/2025
+10075,Mariah Gomez,Female,Technology," $3,400.00 ",Wichita,2,10/23/2025
+10076,Arthur Kelly, Male,Furniture, $680.00 ,Cleveland,3,7/11/2025
+10077,Alice Howard,Female,Office Supplies, $29.99 ,Tampa,7,3/25/2025
+10078,Ryan Ward, Male,Technology," $1,150.80 ",Bakersfield,1,1/10/2026
+10079,Judith Cox,Female,Furniture, $890.00 ,Aurora,2,9/14/2025
+10080,Joshua Diaz, Male,Office Supplies, $54.20 ,Honolulu,4,6/5/2025
+10081,Carolyn Cruz,Female,Technology," $1,250.00 ",Anaheim,3,11/17/2025
+10082,Matthew Richardson, Male,Furniture, $320.00 ,Santa Ana,1,4/16/2025
+10083,Marie Wood,Female,Office Supplies, $88.10 ,St. Louis,5,8/5/2025
+10084,Joseph Watson, Male,Technology," $2,300.00 ",Riverside,2,1/30/2026
+10085,Janet Brooks,Female,Furniture, $410.75 ,Pittsburgh,3,6/21/2025
+10086,Kerry Price, Male,Technology," $1,750.00 ",Jersey City,2,5/9/2025
+10087,Dennis Alexander,Female,Furniture, $540.20 ,Chula Vista,4,10/1/2025
+10088,Diane Perez, Male,Office Supplies, $33.40 ,Buffalo,8,12/23/2025
+10089,Henry Barnes,Female,Technology," $1,990.00 ",St. Paul,1,6/5/2025
+10090,Carl Ross, Male,Furniture, $720.50 ,Henderson,3,2/21/2026
+10091,Albert Bennett, Male,Technology, $990.00 ,Cincinnati,1,5/8/2025
+10092,Margaret Gray,Female,Furniture, $615.00 ,Toledo,2,10/6/2025
+10093,Ryan James, Male,Office Supplies, $12.50 ,Plano,10,2/11/2026
+10094,Joan Reyes,Female,Technology," $1,430.50 ",Newark,3,7/10/2025
+10095,Christian Stewart, Male,Furniture, $890.00 ,Lincoln,2,12/13/2025
+10096,Beverly Powell,Female,Office Supplies, $45.20 ,Greensboro,5,3/17/2025
+10097,Peter Sullivan, Male,Technology," $1,120.00 ",Chandler,1,8/24/2025
+10098,Theresa Long,Female,Furniture," $1,290.00 ",St. Petersburg,2,11/12/2025
+10099,Russell Foster, Male,Office Supplies, $22.95 ,Jersey City,12,4/17/2025
+10100,Virginia Perry,Female,Technology," $2,450.00 ",Scottsdale,3,9/8/2025
+10101,Philip Butler, Male,Furniture, $610.00 ,Orlando,2,7/25/2025
+10102,Marilyn Gonzales,Female,Office Supplies, $18.50 ,Norfolk,6,10/14/2025
+10103,Billy Bryant, Male,Technology," $1,350.00 ",Chesapeake,2,3/29/2025
+10104,Diana Alexander,Female,Furniture, $490.00 ,Glendale,1,8/3/2025
+10105,Roy Russell, Male,Office Supplies, $85.40 ,Hialeah,4,5/1/2025
+10106,Janice Griffin,Female,Technology," $3,100.00 ",Fremont,1,1/5/2026
+10107,Louis Diaz, Male,Furniture, $920.00 ,Richmond,3,6/11/2025
+10108,Katherine Hayes,Female,Office Supplies, $14.99 ,Boise,5,9/30/2025
+10109,Bruce Myers, Male,Technology," $1,650.00 ",Baton Rouge,2,3/7/2025
+10110,Emily Ford,Female,Furniture, $580.00 ,Irvine,2,11/8/2025
+10111,Alan Ford, Male,Office Supplies, $112.50 ,Birmingham,7,2/19/2026
+10112,Danielle Hamilton,Female,Technology," $1,420.00 ",Gilbert,2,7/2/2025
+10113,Willie West, Male,Office Supplies, $38.20 ,Reno,6,8/18/2025
+10114,Jordan Jimenez,Female,Technology," $1,890.00 ",Laredo,1,1/21/2026
+10115,Larry Owens, Male,Furniture, $640.00 ,Lubbock,3,5/10/2025
+10116,Ann Sanders,Female,Office Supplies, $24.99 ,Garland,9,9/16/2025
+10117,Martha Cole,Female,Technology," $1,150.00 ",Hialeah,2,6/6/2025
+10118,Larry Owens, Male,Furniture, $640.00 ,Lubbock,3,5/10/2025
+10119,Ann Sanders,Female,Office Supplies, $24.99 ,Garland,9,9/16/2025
+10120,Martha Cole,Female,Technology," $1,150.00 ",Hialeah,2,6/6/2025
+10121,Janice Griffin,Female,Technology," $3,100.00 ",Fremont,1,1/5/2026
+10122,Louis Diaz, Male,Furniture, $920.00 ,Richmond,3,6/11/2025
+10123,Katherine Hayes,Female,Office Supplies, $14.99 ,Boise,5,9/30/2025
+10124,Bruce Myers, Male,Technology," $1,650.00 ",Baton Rouge,2,3/7/2025
+10125,Emily Ford,Female,Furniture, $580.00 ,Irvine,2,11/8/2025
+10126,Alan Ford, Male,Office Supplies, $112.50 ,Birmingham,7,2/19/2026
+10127,Danielle Hamilton,Female,Technology," $1,420.00 ",Gilbert,2,7/2/2025
+10128,Willie West, Male,Office Supplies, $38.20 ,Reno,6,8/18/2025
+10129,Jordan Jimenez,Female,Technology," $1,890.00 ",Laredo,1,1/21/2026
+10130,Larry Owens, Male,Furniture, $640.00 ,Lubbock,3,5/10/2025
+10131,Ann Sanders,Female,Office Supplies, $24.99 ,Garland,9,9/16/2025
+10132,Martha Cole,Female,Technology," $1,150.00 ",Hialeah,2,6/6/2025
+10133,Roy Russell, Male,Office Supplies, $85.40 ,Hialeah,4,5/1/2025
+10134,Janice Griffin,Female,Technology," $3,100.00 ",Fremont,1,1/5/2026
+10135,Louis Diaz, Male,Furniture, $920.00 ,Richmond,3,6/11/2025
+10136,Katherine Hayes,Female,Office Supplies, $14.99 ,Boise,5,9/30/2025
+10137,Bruce Myers, Male,Technology," $1,650.00 ",Baton Rouge,2,3/7/2025
+10138,Emily Ford,Female,Furniture, $580.00 ,Irvine,2,11/8/2025
+10139,Alan Ford, Male,Office Supplies, $112.50 ,Birmingham,7,2/19/2026
+10140,Danielle Hamilton,Female,Technology," $1,420.00 ",Gilbert,2,7/2/2025
+10141,Willie West, Male,Office Supplies, $38.20 ,Reno,6,8/18/2025
+10142,Jordan Jimenez,Female,Technology," $1,890.00 ",Laredo,1,1/21/2026
+10143,Larry Owens, Male,Furniture, $640.00 ,Lubbock,3,5/10/2025
+10144,Ann Sanders,Female,Office Supplies, $24.99 ,Garland,9,9/16/2025
+10145,Martha Cole,Female,Technology," $1,150.00 ",Hialeah,2,6/6/2025
+10146,Alan Ford, Male,Office Supplies, $112.50 ,Birmingham,7,2/19/2026
+10147,Danielle Hamilton,Female,Technology," $1,420.00 ",Gilbert,2,7/2/2025
+10148,Willie West, Male,Office Supplies, $38.20 ,Reno,6,8/18/2025
+10149,Jordan Jimenez,Female,Technology," $1,890.00 ",Laredo,1,1/21/2026
+10150,Larry Owens, Male,Furniture, $640.00 ,Lubbock,3,5/10/2025
+10151,Ann Sanders,Female,Office Supplies, $24.99 ,Garland,9,9/16/2025
+10152,Martha Cole,Female,Technology," $1,150.00 ",Hialeah,2,6/6/2025
+10153,Alan Ford, Male,Office Supplies, $112.50 ,Birmingham,7,2/19/2026
+10154,Danielle Hamilton,Female,Technology," $1,420.00 ",Gilbert,2,7/2/2025
+10155,Willie West, Male,Office Supplies, $38.20 ,Reno,6,8/18/2025
+10156,Jordan Jimenez,Female,Technology," $1,890.00 ",Laredo,1,1/21/2026
+10157,Larry Owens, Male,Furniture, $640.00 ,Lubbock,3,5/10/2025
+10158,Ann Sanders,Female,Office Supplies, $24.99 ,Garland,9,9/16/2025
+10159,Martha Cole,Female,Technology," $1,150.00 ",Hialeah,2,6/6/2025
+10160,Jordan Jimenez,Female,Technology," $1,890.00 ",Laredo,1,1/21/2026
+10161,Larry Owens, Male,Furniture, $640.00 ,Lubbock,3,5/10/2025
+10162,Ann Sanders,Female,Office Supplies, $24.99 ,Garland,9,9/16/2025
+10163,Martha Cole,Female,Technology," $1,150.00 ",Hialeah,2,6/6/2025
+10164,Alan Ford, Male,Office Supplies, $112.50 ,Birmingham,7,2/19/2026
+10165,Danielle Hamilton,Female,Technology," $1,420.00 ",Gilbert,2,7/2/2025
+10166,Willie West, Male,Office Supplies, $38.20 ,Reno,6,8/18/2025
+10167,Jordan Jimenez,Female,Technology," $1,890.00 ",Laredo,1,1/21/2026
+10168,Larry Owens, Male,Furniture, $640.00 ,Lubbock,3,5/10/2025
+10169,Ann Sanders,Female,Office Supplies, $24.99 ,Garland,9,9/16/2025
+10170,Martha Cole,Female,Technology," $1,150.00 ",Hialeah,2,6/6/2025
+10171,Jordan Jimenez,Female,Technology," $1,890.00 ",Laredo,1,1/21/2026
+10172,Larry Owens, Male,Furniture, $640.00 ,Lubbock,3,5/10/2025
+10173,Ann Sanders,Female,Office Supplies, $24.99 ,Garland,9,9/16/2025
+10174,Martha Cole,Female,Technology," $1,150.00 ",Hialeah,2,6/6/2025
+10175,Alan Ford, Male,Office Supplies, $112.50 ,Birmingham,7,2/19/2026
+10176,Danielle Hamilton,Female,Technology," $1,420.00 ",Gilbert,2,7/2/2025
+10177,Willie West, Male,Office Supplies, $38.20 ,Reno,6,8/18/2025
+10178,Jordan Jimenez,Female,Technology," $1,890.00 ",Laredo,1,1/21/2026
+10179,Larry Owens, Male,Furniture, $640.00 ,Lubbock,3,5/10/2025
+10180,Ann Sanders,Female,Office Supplies, $24.99 ,Garland,9,9/16/2025
+10181,Martha Cole,Female,Technology," $1,150.00 ",Hialeah,2,6/6/2025
+10182,Alan Ford, Male,Office Supplies, $112.50 ,Birmingham,7,2/19/2026
+10183,Danielle Hamilton,Female,Technology," $1,420.00 ",Gilbert,2,7/2/2025
+10184,Willie West, Male,Office Supplies, $38.20 ,Reno,6,8/18/2025
+10185,Jordan Jimenez,Female,Technology," $1,890.00 ",Laredo,1,1/21/2026
+10186,Larry Owens, Male,Furniture, $640.00 ,Lubbock,3,5/10/2025
+10187,Ann Sanders,Female,Office Supplies, $24.99 ,Garland,9,9/16/2025
+10188,Martha Cole,Female,Technology," $1,150.00 ",Hialeah,2,6/6/2025
+10189,Alan Ford, Male,Office Supplies, $112.50 ,Birmingham,7,2/19/2026
+10190,Danielle Hamilton,Female,Technology," $1,420.00 ",Gilbert,2,7/2/2025
+10191,Willie West, Male,Office Supplies, $38.20 ,Reno,6,8/18/2025
+10192,Jordan Jimenez,Female,Technology," $1,890.00 ",Laredo,1,1/21/2026
+10193,Larry Owens, Male,Furniture, $640.00 ,Lubbock,3,5/10/2025
+10194,Ann Sanders,Female,Office Supplies, $24.99 ,Garland,9,9/16/2025
+10195,Martha Cole,Female,Technology," $1,150.00 ",Hialeah,2,6/6/2025
+10196,Alan Ford, Male,Office Supplies, $112.50 ,Birmingham,7,2/19/2026
+10197,Danielle Hamilton,Female,Technology," $1,420.00 ",Gilbert,2,7/2/2025
+10198,Willie West, Male,Office Supplies, $38.20 ,Reno,6,8/18/2025
+10199,Jordan Jimenez,Female,Technology," $1,890.00 ",Laredo,1,1/21/2026
+10200,Larry Owens, Male,Furniture, $640.00 ,Lubbock,3,5/10/2025
+10201,Ann Sanders,Female,Office Supplies, $24.99 ,Garland,9,9/16/2025
+10202,Martha Cole,Female,Technology," $1,150.00 ",Hialeah,2,6/6/2025
+10203,Alan Ford, Male,Office Supplies, $112.50 ,Birmingham,7,2/19/2026
+10204,Danielle Hamilton,Female,Technology," $1,420.00 ",Gilbert,2,7/2/2025
+10205,Willie West, Male,Office Supplies, $38.20 ,Reno,6,8/18/2025
+10206,Jordan Jimenez,Female,Technology," $1,890.00 ",Laredo,1,1/21/2026
+10207,Larry Owens, Male,Furniture, $640.00 ,Lubbock,3,5/10/2025
+10208,Ann Sanders,Female,Office Supplies, $24.99 ,Garland,9,9/16/2025
+10209,Martha Cole,Female,Technology," $1,150.00 ",Hialeah,2,6/6/2025
+10210,Alan Ford, Male,Office Supplies, $112.50 ,Birmingham,7,2/19/2026
+10211,Danielle Hamilton,Female,Technology," $1,420.00 ",Gilbert,2,7/2/2025
+10212,Willie West, Male,Office Supplies, $38.20 ,Reno,6,8/18/2025
+10213,Jordan Jimenez,Female,Technology," $1,890.00 ",Laredo,1,1/21/2026
+10214,Larry Owens, Male,Furniture, $640.00 ,Lubbock,3,5/10/2025
+10215,Ann Sanders,Female,Office Supplies, $24.99 ,Garland,9,9/16/2025
+10216,Martha Cole,Female,Technology," $1,150.00 ",Hialeah,2,6/6/2025
+10217,Alan Ford, Male,Office Supplies, $112.50 ,Birmingham,7,2/19/2026
+10218,Danielle Hamilton,Female,Technology," $1,420.00 ",Gilbert,2,7/2/2025
+10219,Willie West, Male,Office Supplies, $38.20 ,Reno,6,8/18/2025
+10220,Jordan Jimenez,Female,Technology," $1,890.00 ",Laredo,1,1/21/2026
+10221,Larry Owens, Male,Furniture, $640.00 ,Lubbock,3,5/10/2025
+10222,Ann Sanders,Female,Office Supplies, $24.99 ,Garland,9,9/16/2025
+10223,Martha Cole,Female,Technology," $1,150.00 ",Hialeah,2,6/6/2025
+10224,Alan Ford, Male,Office Supplies, $112.50 ,Birmingham,7,2/19/2026
+10225,Danielle Hamilton,Female,Technology," $1,420.00 ",Gilbert,2,7/2/2025
+10226,Willie West, Male,Office Supplies, $38.20 ,Reno,6,8/18/2025
+10227,Jordan Jimenez,Female,Technology," $1,890.00 ",Laredo,1,1/21/2026
+10228,Larry Owens, Male,Furniture, $640.00 ,Lubbock,3,5/10/2025
+10229,Ann Sanders,Female,Office Supplies, $24.99 ,Garland,9,9/16/2025
+10230,Martha Cole,Female,Technology," $1,150.00 ",Hialeah,2,6/6/2025
+10231,Alan Ford, Male,Office Supplies, $112.50 ,Birmingham,7,2/19/2026
+10232,Danielle Hamilton,Female,Technology," $1,420.00 ",Gilbert,2,7/2/2025
+10233,Willie West, Male,Office Supplies, $38.20 ,Reno,6,8/18/2025
+10234,Jordan Jimenez,Female,Technology," $1,890.00 ",Laredo,1,1/21/2026
+10235,Larry Owens, Male,Furniture, $640.00 ,Lubbock,3,5/10/2025
+10236,Ann Sanders,Female,Office Supplies, $24.99 ,Garland,9,9/16/2025
+10237,Martha Cole,Female,Technology," $1,150.00 ",Hialeah,2,6/6/2025
+10238,Alan Ford, Male,Office Supplies, $112.50 ,Birmingham,7,2/19/2026
+10239,Danielle Hamilton,Female,Technology," $1,420.00 ",Gilbert,2,7/2/2025
+10240,Willie West, Male,Office Supplies, $38.20 ,Reno,6,8/18/2025
+10241,Jordan Jimenez,Female,Technology," $1,890.00 ",Laredo,1,1/21/2026
+10242,Larry Owens, Male,Furniture, $640.00 ,Lubbock,3,5/10/2025
+10243,Ann Sanders,Female,Office Supplies, $24.99 ,Garland,9,9/16/2025
+10244,Martha Cole,Female,Technology," $1,150.00 ",Hialeah,2,6/6/2025
+10245,Alan Ford, Male,Office Supplies, $112.50 ,Birmingham,7,2/19/2026
+10246,Danielle Hamilton,Female,Technology," $1,420.00 ",Gilbert,2,7/2/2025
+10247,Willie West, Male,Office Supplies, $38.20 ,Reno,6,8/18/2025
+10248,Jordan Jimenez,Female,Technology," $1,890.00 ",Laredo,1,1/21/2026
+10249,Larry Owens, Male,Furniture, $640.00 ,Lubbock,3,5/10/2025
+10250,Ann Sanders,Female,Office Supplies, $24.99 ,Garland,9,9/16/2025
+10251,Martha Cole,Female,Technology," $1,150.00 ",Hialeah,2,6/6/2025
+10252,Alan Ford, Male,Office Supplies, $112.50 ,Birmingham,7,2/19/2026
+10253,Danielle Hamilton,Female,Technology," $1,420.00 ",Gilbert,2,7/2/2025
+10254,Willie West, Male,Office Supplies, $38.20 ,Reno,6,8/18/2025
+10255,Jordan Jimenez,Female,Technology," $1,890.00 ",Laredo,1,1/21/2026
+10256,Larry Owens, Male,Furniture, $640.00 ,Lubbock,3,5/10/2025
+10257,Ann Sanders,Female,Office Supplies, $24.99 ,Garland,9,9/16/2025
+10258,Martha Cole,Female,Technology," $1,150.00 ",Hialeah,2,6/6/2025
+10259,Alan Ford, Male,Office Supplies, $112.50 ,Birmingham,7,2/19/2026
+10260,Danielle Hamilton,Female,Technology," $1,420.00 ",Gilbert,2,7/2/2025
+10261,Willie West, Male,Office Supplies, $38.20 ,Reno,6,8/18/2025
+10262,Jordan Jimenez,Female,Technology," $1,890.00 ",Laredo,1,1/21/2026
+10263,Larry Owens, Male,Furniture, $640.00 ,Lubbock,3,5/10/2025
+10264,Ann Sanders,Female,Office Supplies, $24.99 ,Garland,9,9/16/2025
+10265,Martha Cole,Female,Technology," $1,150.00 ",Hialeah,2,6/6/2025
+10266,Alan Ford, Male,Office Supplies, $112.50 ,Birmingham,7,2/19/2026
+10267,Danielle Hamilton,Female,Technology," $1,420.00 ",Gilbert,2,7/2/2025
+10268,Willie West, Male,Office Supplies, $38.20 ,Reno,6,8/18/2025
+10269,Jordan Jimenez,Female,Technology," $1,890.00 ",Laredo,1,1/21/2026
+10270,Larry Owens, Male,Furniture, $640.00 ,Lubbock,3,5/10/2025
+10271,Ann Sanders,Female,Office Supplies, $24.99 ,Garland,9,9/16/2025
+10272,Martha Cole,Female,Technology," $1,150.00 ",Hialeah,2,6/6/2025
+10273,Alan Ford, Male,Office Supplies, $112.50 ,Birmingham,7,2/19/2026
+10274,Danielle Hamilton,Female,Technology," $1,420.00 ",Gilbert,2,7/2/2025
+10275,Willie West, Male,Office Supplies, $38.20 ,Reno,6,8/18/2025
+10276,Jordan Jimenez,Female,Technology," $1,890.00 ",Laredo,1,1/21/2026
+10277,Larry Owens, Male,Furniture, $640.00 ,Lubbock,3,5/10/2025
+10278,Ann Sanders,Female,Office Supplies, $24.99 ,Garland,9,9/16/2025
+10279,Martha Cole,Female,Technology," $1,150.00 ",Hialeah,2,6/6/2025
+10280,Alan Ford, Male,Office Supplies, $112.50 ,Birmingham,7,2/19/2026
+10281,Danielle Hamilton,Female,Technology," $1,420.00 ",Gilbert,2,7/2/2025
+10282,Willie West, Male,Office Supplies, $38.20 ,Reno,6,8/18/2025
+10283,Jordan Jimenez,Female,Technology," $1,890.00 ",Laredo,1,1/21/2026
+10284,Larry Owens, Male,Furniture, $640.00 ,Lubbock,3,5/10/2025
+10285,Ann Sanders,Female,Office Supplies, $24.99 ,Garland,9,9/16/2025
+10286,Martha Cole,Female,Technology," $1,150.00 ",Hialeah,2,6/6/2025
+10287,Alan Ford, Male,Office Supplies, $112.50 ,Birmingham,7,2/19/2026
+10288,Danielle Hamilton,Female,Technology," $1,420.00 ",Gilbert,2,7/2/2025
+10289,Willie West, Male,Office Supplies, $38.20 ,Reno,6,8/18/2025
+10290,Jordan Jimenez,Female,Technology," $1,890.00 ",Laredo,1,1/21/2026
+10291,Larry Owens, Male,Furniture, $640.00 ,Lubbock,3,5/10/2025
+10292,Ann Sanders,Female,Office Supplies, $24.99 ,Garland,9,9/16/2025
+10293,Martha Cole,Female,Technology," $1,150.00 ",Hialeah,2,6/6/2025
+10294,Alan Ford, Male,Office Supplies, $112.50 ,Birmingham,7,2/19/2026
+10295,Danielle Hamilton,Female,Technology," $1,420.00 ",Gilbert,2,7/2/2025
+10296,Willie West, Male,Office Supplies, $38.20 ,Reno,6,8/18/2025
+10297,Jordan Jimenez,Female,Technology," $1,890.00 ",Laredo,1,1/21/2026
+10298,Larry Owens, Male,Furniture, $640.00 ,Lubbock,3,5/10/2025
+10299,Ann Sanders,Female,Office Supplies, $24.99 ,Garland,9,9/16/2025
+10300,Martha Cole,Female,Technology," $1,150.00 ",Hialeah,2,6/6/2025
+10301,Alan Ford, Male,Office Supplies, $112.50 ,Birmingham,7,2/19/2026
+10302,Danielle Hamilton,Female,Technology," $1,420.00 ",Gilbert,2,7/2/2025
+10303,Willie West, Male,Office Supplies, $38.20 ,Reno,6,8/18/2025
